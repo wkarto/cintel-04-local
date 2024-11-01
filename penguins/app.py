@@ -1,6 +1,7 @@
 # Additional Python Notes
 # ------------------------
 
+
 # Capitalization matters in Python. Python is case-sensitive: min and Min are different.
 # Spelling matters in Python. You must match the spelling of functions and variables exactly.
 # Indentation matters in Python. Indentation is used to define code blocks and must be consistent.
